@@ -1,0 +1,14 @@
+body{
+	background-color: #bfbfbf;
+}
+p{
+	text-align: center;
+}
+#img{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.link{
+	text-align: center;
+}

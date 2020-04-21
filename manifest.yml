@@ -1,0 +1,7 @@
+---
+applications:
+- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+host: cinehouse-413131
+name: cinehouse-413131
+memory: 64M
+stack: cflinuxfs2
